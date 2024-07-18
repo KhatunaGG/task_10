@@ -1,0 +1,56 @@
+[
+  {
+    "initBalance": 1000,
+    "balance": 450,
+    "expenses": [
+      {
+        "expense": 100,
+        "category": "sss",
+        "id": 6,
+        "date": "2024-07-18T08:04:26.779Z"
+      },
+      {
+        "expense": 100,
+        "category": "mmm",
+        "id": 7,
+        "date": "2024-07-18T08:49:46.087Z"
+      },
+      {
+        "expense": 100,
+        "category": "qqq",
+        "id": 8,
+        "date": "2024-07-18T09:26:21.455Z"
+      },
+      {
+        "expense": 10,
+        "category": "ttt",
+        "id": 9,
+        "date": "2024-07-18T09:26:41.808Z"
+      },
+      {
+        "expense": 10,
+        "category": "www",
+        "id": 10,
+        "date": "2024-07-18T09:28:09.631Z"
+      },
+      {
+        "expense": 10,
+        "category": "fff",
+        "id": 11,
+        "date": "2024-07-18T09:31:19.152Z"
+      },
+      {
+        "expense": 10,
+        "category": "www",
+        "id": 12,
+        "date": "2024-07-18T09:32:15.070Z"
+      },
+      {
+        "expense": 20,
+        "category": "zzz",
+        "id": 13,
+        "date": "2024-07-18T09:32:59.743Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "task_10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "create-cli": "create.js",
+    "delete-cli": "delete.js",
+    "search-cli": "search.js",
+    "add-cli": "add.js",
+    "all-cli": "all.js"
+  },
+  "scripts": {
+    "start": "node --watch delete.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
