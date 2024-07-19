@@ -11,13 +11,14 @@
     "all-cli": "all.js"
   },
   "scripts": {
-    "start": "node --watch delete.js",
+    "start": "node --watch pagination.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commander": "^12.1.0"
+    "commander": "^12.1.0",
+    "express": "^4.19.2"
   }
 }
